@@ -3,9 +3,9 @@
 
 const passwordData = [
     {
-        service: "Google Account",
-        id: "sample@gmail.com",
-        password: "PassWord123!",
+        service: "Github projects",
+        id: "yoshh1306it-netizen",
+        password: "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",
         category: "Mail",
         icon: "mail"
     },
